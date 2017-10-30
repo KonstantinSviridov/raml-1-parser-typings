@@ -1,8 +1,9 @@
 {
   "name": "raml-1-parser-typings",
-  "version": "1.0.36",
+  "version": "1.0.36-1",
   "description": "Standalone typings for raml-1-parser",
   "main": "src/raml-1-parser/index.d.ts",
+  "typings": "src/raml-1-parser/index.d.ts",
   "scripts": {
     "test": "tsc"
   },
